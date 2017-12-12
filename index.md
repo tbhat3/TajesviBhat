@@ -3,22 +3,30 @@
 My name is Tajesvi Bhat and I am currently pursuing a B.S. in Computer Science at the University of Illinois
 at Urbana-Champaign.
 
-
 You can use the [editor on GitHub](https://github.com/tbhat3/TajesviBhat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Leadership Experience
- `Technology Consultant at UIUC Technology Services
+#### Leadership Experience
+#Technology Consultant at UIUC Technology Services
    Active employee for UIUC technology department that offers technical services for students,
    faculty, and facilities
-Rewriting the Code Fellowship
+   
+#Rewriting the Code Fellowship
   Selected as a member of the Rewriting the Code program to promote women in
   computer science and tech fields and offer members technical training and mentorship 
-Intern for Senator Mark Kirk (March – July 2016)
-  Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
-  phone banking and public opinion poll conductions`
   
+#Intern for Senator Mark Kirk 
+  Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
+  phone banking and public opinion poll conductions
+  
+#Society of Women Engineers: E-Week Chair
+   Active member of the SWE organization and active member for the Team Tech Subteam
+     working on an engineering design project for John Deere
+     
+   Elected as Chair for Engineering Week Committee in charge of SWE’s involvement and
+     representation during UIUC’s celebration of National Engineering Week
+     
 ```markdown
 Syntax highlighted code block
 
