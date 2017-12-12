@@ -9,15 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### Leadership Experience
  _Technology Consultant at UIUC Technology Services_
-   Active employee for UIUC technology department that offers technical services for students,
+   - Active employee for UIUC technology department that offers technical services for students,
    faculty, and facilities
    
 _Rewriting the Code Fellowship_
-  Selected as a member of the Rewriting the Code program to promote women in
+  - Selected as a member of the Rewriting the Code program to promote women in
   computer science and tech fields and offer members technical training and mentorship 
   
  _Intern for Senator Mark Kirk_
-  Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
+  - Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
   phone banking and public opinion poll conductions
   
  _Society of Women Engineers: E-Week Chair_
