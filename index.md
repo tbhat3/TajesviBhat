@@ -8,19 +8,19 @@ You can use the [editor on GitHub](https://github.com/tbhat3/TajesviBhat/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 #### Leadership Experience
-# _Technology Consultant at UIUC Technology Services_
+ _Technology Consultant at UIUC Technology Services_
    Active employee for UIUC technology department that offers technical services for students,
    faculty, and facilities
    
-# _Rewriting the Code Fellowship_
+_Rewriting the Code Fellowship_
   Selected as a member of the Rewriting the Code program to promote women in
   computer science and tech fields and offer members technical training and mentorship 
   
-# _Intern for Senator Mark Kirk_
+ _Intern for Senator Mark Kirk_
   Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
   phone banking and public opinion poll conductions
   
-# _Society of Women Engineers: E-Week Chair_
+ _Society of Women Engineers: E-Week Chair_
    - Active member of the SWE organization and active member for the Team Tech Subteam
      working on an engineering design project for John Deere
      
