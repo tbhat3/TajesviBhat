@@ -9,15 +9,15 @@ You can use the [editor on GitHub](https://github.com/tbhat3/TajesviBhat/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Leadership Experience
- 'Technology Consultant at UIUC Technology Services
+ `Technology Consultant at UIUC Technology Services
    Active employee for UIUC technology department that offers technical services for students,
-   faculty, and facilities'
-'Rewriting the Code Fellowship' 
-  'Selected as a member of the Rewriting the Code program to promote women in
-  computer science and tech fields and offer members technical training and mentorship'  
-'Intern for Senator Mark Kirk (March – July 2016)
-  'Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
-  phone banking and public opinion poll conductions'
+   faculty, and facilities
+Rewriting the Code Fellowship
+  Selected as a member of the Rewriting the Code program to promote women in
+  computer science and tech fields and offer members technical training and mentorship 
+Intern for Senator Mark Kirk (March – July 2016)
+  Intern for Senator Kirk’s reelection campaign involving extensive customer contact through
+  phone banking and public opinion poll conductions`
   
 ```markdown
 Syntax highlighted code block
