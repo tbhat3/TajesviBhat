@@ -3,17 +3,13 @@
 My name is Tajesvi Bhat and I am currently pursuing a B.S. in Computer Science at the University of Illinois
 at Urbana-Champaign.
 
-You can use the [editor on GitHub](https://github.com/tbhat3/TajesviBhat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 #### Leadership Experience
  _Technology Consultant at UIUC Technology Services_
    - Active employee for UIUC technology department that offers technical services for students,
    faculty, and facilities
    
 _Rewriting the Code Fellowship_
-  - Selected as a member of the Rewriting the Code program to promote women in
+  - Selected as a fellow for the Rewriting the Code program to promote women in
   computer science and tech fields and offer members technical training and mentorship 
   
  _Intern for Senator Mark Kirk_
@@ -28,29 +24,18 @@ _Rewriting the Code Fellowship_
      representation during UIUC’s celebration of National Engineering Week
      
 ```markdown
-Syntax highlighted code block
+# Programming Experience
+Proficient in:
+- Java
+- C++
+- Python
 
-# Header 1
-## Header 2
+## Awards and Recognitions
+_Advanced Placement Scholar (2016)
+Illinois State Scholar (2016)
+President’s Award for Academic Excellence (2012)_
+
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbhat3/TajesviBhat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+tbhat2@illinois.edu
