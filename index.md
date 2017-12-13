@@ -24,18 +24,16 @@ _Rewriting the Code Fellowship_
      representation during UIUC’s celebration of National Engineering Week
      
 ```markdown
-# Programming Experience
+#### Programming Experience
 Proficient in:
 - Java
 - C++
 - Python
 
-## Awards and Recognitions
-_Advanced Placement Scholar (2016)
-Illinois State Scholar (2016)
-President’s Award for Academic Excellence (2012)_
-
-### Header 3
+#### Awards and Recognitions
+- _Advanced Placement Scholar (2016)
+- Illinois State Scholar (2016)
+- President’s Award for Academic Excellence (2012)_
 
 ### Contact
 tbhat2@illinois.edu
