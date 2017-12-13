@@ -25,6 +25,7 @@ _Society of Women Engineers: E-Week Chair_
   _National Organization for Business and Engineering- Consulting Team_
    - Selected as a member for the Project Consulting Team, currently working with Ameren on a
      technical project
+     
  _Women in Computer Science (WCS)_
   -  Active member of the WCS organization for increased involvement of women in computer
      science
