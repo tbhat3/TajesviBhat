@@ -23,7 +23,6 @@ _Rewriting the Code Fellowship_
    - Elected as Chair for Engineering Week Committee in charge of SWE’s involvement and
      representation during UIUC’s celebration of National Engineering Week
      
-```markdown
 #### Programming Experience
 Proficient in:
 - Java
