@@ -41,5 +41,9 @@ Proficient in:
 - _Illinois State Scholar (2016)_
 - _President’s Award for Academic Excellence (2012)_
 
+#### Skills
+- Fluent in English, Hindi, Kashmiri, Spanish
+- Well versed in Microsoft Office Suite and Adobe Creative Suite 
+
 ### Contact
 tbhat2@illinois.edu
